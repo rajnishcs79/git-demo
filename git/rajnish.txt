@@ -12,4 +12,8 @@ System.out.println("this is m1 method");
 public  void m4(){
 System.out.println("this is m1 method");
 }
+public  void m5(){
+System.out.println("this is m1 method");
+}
+}
 }
